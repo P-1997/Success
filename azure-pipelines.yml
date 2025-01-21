@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: Pradeep
+  vmImage: WindowsAgentPool
 
 steps:
 - script: echo Hello, world!

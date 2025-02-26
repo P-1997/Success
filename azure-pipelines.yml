@@ -1,6 +1,0 @@
-trigger:
-- main
-pool:
-  vmImage: WindowsAgentPool
-steps:
-    - script: echo " hello world"
